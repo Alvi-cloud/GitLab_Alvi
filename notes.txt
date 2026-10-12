@@ -1,0 +1,5 @@
+Git staging area is useful because here we can check the files 
+
+The staging area lets you curate exactly which changes make it into your next commit instead of saving everything at once. It enables focused, atomic commits and lets you review your snapshot with git diff --staged before permanently writing it to project history.
+
+git staging area is  useful because it make changes into our commits instead of saving everything. it 
